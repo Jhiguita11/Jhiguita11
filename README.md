@@ -11,14 +11,14 @@
 
 ---
 
-## 🧑‍💻 Sobre mí
+##  Sobre mí
 
-- 🚀 Desarrollador **Full Stack** que construye sitios y aplicaciones web de principio a fin.
-- 🕶️ Me interesa la **Realidad Aumentada** en la web.
-- 🌱 Siempre aprendiendo nuevas tecnologías.
-- 📫 Puedes ver mi trabajo en mi [portafolio](https://jhiguita11.github.io/Portafolio/).
+-  Desarrollador **Full Stack** que construye sitios y aplicaciones web de principio a fin.
+-  Me interesa la **Realidad Aumentada** en la web.
+-  Siempre aprendiendo nuevas tecnologías.
+-  Puedes ver mi trabajo en mi [portafolio](https://jhiguita11.github.io/Portafolio/).
 
-## 🛠️ Tecnologías
+##  Tecnologías
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,vscode&theme=dark" alt="Tecnologías" />
