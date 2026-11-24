@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Jeremy+Higuita+%F0%9F%91%8B;Desarrollador+Full+Stack;Web+%7C+Realidad+Aumentada+%7C+TypeScript" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Jeremy+Higuita+%F0%9F%91%8B;Desarrollador+Full+Stack;Experiencias+3D+%7C+VR+%7C+AR;Unreal+Engine+5+%7C+Unity+6" alt="Typing SVG" />
 
 📍 Manizales, Colombia
 
@@ -14,14 +14,35 @@
 ##  Sobre mí
 
 -  Desarrollador **Full Stack** que construye sitios y aplicaciones web de principio a fin.
--  Me interesa la **Realidad Aumentada** en la web.
+-  Creo **experiencias 3D, VR y AR** en **Unreal Engine 5** y **Unity 6**.
+-  Modelado y animación 3D con Blender, 3ds Max y Twinmotion.
 -  Siempre aprendiendo nuevas tecnologías.
 -  Puedes ver mi trabajo en mi [portafolio](https://jhiguita11.github.io/Portafolio/).
 
-##  Tecnologías
+##  Habilidades
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,vscode&theme=dark" alt="Tecnologías" />
+### Desarrollo de Juegos y XR
+![Unreal Engine 5](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unity 6](https://img.shields.io/badge/Unity_6-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Blueprint](https://img.shields.io/badge/Blueprints-0E1128?style=for-the-badge&logo=unrealengine&logoColor=36BCF7)
+![VR](https://img.shields.io/badge/VR-1A237E?style=for-the-badge&logo=meta&logoColor=white)
+![AR](https://img.shields.io/badge/AR-1A237E?style=for-the-badge&logo=googlearcore&logoColor=white)
+
+### 3D / Animación
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![3ds Max](https://img.shields.io/badge/3ds_Max-37A5CC?style=for-the-badge&logo=autodesk&logoColor=white)
+![Twinmotion](https://img.shields.io/badge/Twinmotion-0E1128?style=for-the-badge&logo=epicgames&logoColor=white)
+
+### Programación
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,cpp,py,php,mysql,postgres,docker,github,gitlab&theme=dark&perline=14" alt="Lenguajes y herramientas" />
+</p>
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### Edición
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ps,pr,ae&theme=dark" alt="Photoshop, Premiere Pro, After Effects" />
 </p>
 
 ## 📌 Proyectos destacados
