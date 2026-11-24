@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Jeremy+Higuita+%F0%9F%91%8B;Desarrollador+Full+Stack;Experiencias+3D+%7C+VR+%7C+AR;Unreal+Engine+5+%7C+Unity+6" alt="Typing SVG" />
+<img src="assets/banner.png" alt="Jhiguita - Software developer / 3D Developer / Systems and Telecommunications Engineer" width="100%" />
 
 Manizales, Colombia
 
