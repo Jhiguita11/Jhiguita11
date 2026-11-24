@@ -35,7 +35,7 @@
 
 ### Programación
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,cpp,py,php,mysql,postgres,docker,github,gitlab&theme=dark&perline=14" alt="Lenguajes y herramientas" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,cpp,py,php,mysql,postgres,supabase,docker,github,gitlab&theme=dark&perline=15" alt="Lenguajes y herramientas" />
 </p>
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
