@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Jeremy+Higuita+%F0%9F%91%8B;Desarrollador+Full+Stack;Experiencias+3D+%7C+VR+%7C+AR;Unreal+Engine+5+%7C+Unity+6" alt="Typing SVG" />
 
-📍 Manizales, Colombia
+Manizales, Colombia
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jhiguita11.github.io/Portafolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jhiguita11)
@@ -45,12 +45,12 @@
   <img src="https://skillicons.dev/icons?i=ps,pr,ae&theme=dark" alt="Photoshop, Premiere Pro, After Effects" />
 </p>
 
-## 📌 Proyectos destacados
+##  Proyectos destacados
 
 | Proyecto | Descripción | Tecnología |
 |---|---|---|
 | [NEXARQ](https://github.com/Jhiguita11/NEXARQ) | Plataforma web de NEXARQ | TypeScript |
-| [Reserva_Mirrinao](https://github.com/Jhiguita11/Reserva_Mirrinao) | Sistema de reservas — NEXARQ360 | TypeScript |
+| [Reserva_Mirrinao](https://github.com/Jhiguita11/Reserva_Mirrinao) | Recorrido 360 para constructora | TypeScript |
 | [Portafolio](https://github.com/Jhiguita11/Portafolio) | Mi portafolio personal | JavaScript |
 | [Telematica-AR](https://github.com/Jhiguita11/Telematica-AR) | Experiencia de Realidad Aumentada | HTML |
 
