@@ -2,7 +2,7 @@
 
 <img src="assets/banner.png" alt="Jhiguita - Software developer / 3D Developer / Systems and Telecommunications Engineer" width="100%" />
 
-Manizales, Colombia
+
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jhiguita11.github.io/Portafolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jhiguita11)
