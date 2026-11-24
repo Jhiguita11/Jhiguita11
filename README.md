@@ -21,7 +21,7 @@ Manizales, Colombia
 
 ##  Habilidades
 
-### Desarrollo de Juegos y XR
+### Desarrollo de Experienicas Inmersivas
 ![Unreal Engine 5](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity 6](https://img.shields.io/badge/Unity_6-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Blueprint](https://img.shields.io/badge/Blueprints-0E1128?style=for-the-badge&logo=unrealengine&logoColor=36BCF7)
