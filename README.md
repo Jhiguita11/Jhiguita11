@@ -16,6 +16,7 @@ Manizales, Colombia
 -  Desarrollador **Full Stack** que construye sitios y aplicaciones web de principio a fin.
 -  Creo **experiencias 3D, VR y AR** en **Unreal Engine 5** y **Unity 6**.
 -  Modelado y animación 3D con Blender, 3ds Max y Twinmotion.
+-  Uso **inteligencia artificial** (Claude) en mi flujo de trabajo para programar, prototipar y crear más rápido.
 -  Siempre aprendiendo nuevas tecnologías.
 -  Puedes ver mi trabajo en mi [portafolio](https://jhiguita11.github.io/Portafolio/).
 
@@ -43,6 +44,11 @@ Manizales, Colombia
 ### Edición
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ps,pr,ae&theme=dark" alt="Photoshop, Premiere Pro, After Effects" />
+</p>
+
+### Inteligencia Artificial
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
 </p>
 
 ##  Proyectos destacados
