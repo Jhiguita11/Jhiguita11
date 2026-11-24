@@ -13,7 +13,7 @@ Manizales, Colombia
 
 ##  Sobre mí
 
--  Desarrollador **Full Stack** que construye sitios web y aplicaciones de principio a fin.
+-  Desarrollador Full Stack especializado en crear sitios web y aplicaciones, desde el diseño de la interfaz hasta la lógica del servidor, con enfoque en rendimiento, usabilidad y escalabilidad.
 -  Creo **experiencias 3D, VR y AR** en **Unreal Engine 5** y **Unity 6**.
 -  Modelado y animación 3D con Blender, 3ds Max y Twinmotion.
 -  Uso **inteligencia artificial** (Claude y Codex) en mi flujo de trabajo para programar, prototipar y crear más rápido.
