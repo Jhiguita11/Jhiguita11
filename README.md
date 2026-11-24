@@ -57,7 +57,7 @@ Manizales, Colombia
 | Proyecto | Descripción | Tecnología |
 |---|---|---|
 | [Orbital](https://github.com/Jhiguita11/Orbital) | Software interno para empresa | JavaScript,Vue,HTML,CSS,JSON,SVG,PowerShell,NSIS,Vue 3,Vue Router,Vite,Electron,Node.js,electron-builder,hls.js,exceljs,qrcode,lucide-vue-next,Supabase,Google Sheets|
-| [Reserva_Mirrinao](https://github.com/Jhiguita11/Reserva_Mirrinao) | Recorrido 360 para constructora | TypeScript |
+| [Reserva_Mirrinao](https://github.com/Jhiguita11/Reserva_Mirrinao) | Recorrido 360 para constructora | Next.js 16 (con Turbopack),React 19,TypeScript,Tailwind CSS 4,Pannellum,Zustand,Lucide React,Radix UI,Sharp, Playwright,PowerShell,ESLint,npm / Bun,Git  |
 | [Portafolio](https://github.com/Jhiguita11/Portafolio) | Mi portafolio personal | JavaScript |
 | [Telematica-AR](https://github.com/Jhiguita11/Telematica-AR) | Experiencia de Realidad Aumentada | HTML |
 
