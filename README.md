@@ -54,7 +54,7 @@ Manizales, Colombia
 | [Portafolio](https://github.com/Jhiguita11/Portafolio) | Mi portafolio personal | JavaScript |
 | [Telematica-AR](https://github.com/Jhiguita11/Telematica-AR) | Experiencia de Realidad Aumentada | HTML |
 
-## 📊 Estadísticas
+##  Estadísticas
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jhiguita11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
